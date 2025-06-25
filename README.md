@@ -1,1 +1,2 @@
-# Super-Store-Sales-Dashboard
+# Super-Store-Sales-Dashboard 
+This is a Power bi project
