@@ -20,5 +20,6 @@ Power BI
 .Data Visualization Best Practices
 
 Screenshot;https://github.com/utkarsh4863/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-06-25%20212312.png
-https://github.com/utkarsh4863/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-06-25%20212422.png
+
+Forecast Dashboard Screenshot;https://github.com/utkarsh4863/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-06-25%20212422.png
 
